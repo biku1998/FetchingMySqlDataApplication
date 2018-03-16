@@ -9,6 +9,7 @@ public class ConnectionProvider
 		
 		try 
 		{
+			Class.forName("com.mysql.jdbc.Driver");
 			co = DriverManager.getConnection
 			 ("jdbc:mysql://localhost:3307/information_schema", 
 					 "root", "root");
