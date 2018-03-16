@@ -1,0 +1,11 @@
+
+
+1 . please input your mysql username and password in the ConnectionProvider.java File in the place of root.
+
+2 . import this project to your eclipse ide .
+
+3 . add mysql connector.jar file
+
+4 . create a folder in your c drive , name of folder-> abc.
+
+5 . run the project. 
